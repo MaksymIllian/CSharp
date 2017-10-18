@@ -1,0 +1,2 @@
+g:\documents\visual studio 2013\Projects\lecture6\lecture6\bin\Debug\lecture6.exe.config
+g:\documents\visual studio 2013\Projects\lecture6\lecture6\bin\Debug\UI.exe.config

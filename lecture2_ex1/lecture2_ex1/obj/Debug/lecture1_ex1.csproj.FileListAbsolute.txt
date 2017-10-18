@@ -1,0 +1,7 @@
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\bin\Debug\lecture1_ex1.exe.config
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\bin\Debug\lecture1_ex1.exe
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\bin\Debug\lecture1_ex1.pdb
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\obj\Debug\lecture1_ex1.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\obj\Debug\lecture1_ex1.exe
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\obj\Debug\lecture1_ex1.pdb
+g:\documents\visual studio 2013\Projects\lecture1_ex1\lecture1_ex1\bin\Debug\lecture2_ex1.exe.config

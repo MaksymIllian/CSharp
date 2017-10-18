@@ -1,0 +1,8 @@
+g:\documents\visual studio 2013\Projects\lecture6\Core\bin\Debug\Core.dll
+g:\documents\visual studio 2013\Projects\lecture6\Core\bin\Debug\Core.pdb
+g:\documents\visual studio 2013\Projects\lecture6\Core\obj\Debug\Core.dll
+g:\documents\visual studio 2013\Projects\lecture6\Core\obj\Debug\Core.pdb
+G:\Documents\Visual Studio 2013\Projects\Core\bin\Debug\Core.dll
+G:\Documents\Visual Studio 2013\Projects\Core\bin\Debug\Core.pdb
+G:\Documents\Visual Studio 2013\Projects\Core\obj\Debug\Core.dll
+G:\Documents\Visual Studio 2013\Projects\Core\obj\Debug\Core.pdb

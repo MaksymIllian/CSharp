@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <FirstName>SerGay</FirstName>
+    <LastName>Kolesnikov</LastName>
+    <Age>25</Age>
+    <Department>Net</Department>
+    <Address>Pavlovo Pole 56</Address>
+    <EmployeeID>KolesnikovSerGay</EmployeeID>
+  </Employee>
+  <Employee>
+    <FirstName>Ivan</FirstName>
+    <LastName>Michalkov</LastName>
+    <Age>29</Age>
+    <Department>Finansical</Department>
+    <Address>Rogan street 1</Address>
+    <EmployeeID>MichalkovIvan</EmployeeID>
+  </Employee>
+  <Employee>
+    <FirstName>Vasil</FirstName>
+    <LastName>Oloshko</LastName>
+    <Age>32</Age>
+    <Department>Finansical</Department>
+    <Address>Rogan street 5</Address>
+    <EmployeeID>OloshkoVasil</EmployeeID>
+  </Employee>
+</Employees>

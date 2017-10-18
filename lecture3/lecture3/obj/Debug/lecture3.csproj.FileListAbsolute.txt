@@ -1,0 +1,9 @@
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\bin\Debug\lecture3.exe.config
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\obj\Debug\lecture3.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\bin\Debug\lecture3.exe
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\bin\Debug\lecture3.pdb
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\obj\Debug\lecture3.exe
+g:\documents\visual studio 2013\Projects\lecture3\lecture3\obj\Debug\lecture3.pdb
+G:\Documents\Visual Studio 2013\Projects\Nix\C#\lecture3\lecture3\bin\Debug\lecture3.exe.config
+G:\Documents\Visual Studio 2013\Projects\Nix\C#\lecture3\lecture3\obj\Debug\lecture3.exe
+G:\Documents\Visual Studio 2013\Projects\Nix\C#\lecture3\lecture3\obj\Debug\lecture3.pdb
